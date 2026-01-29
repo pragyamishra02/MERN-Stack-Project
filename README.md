@@ -36,11 +36,9 @@ Using the MERN stack allows the entire application to be developed in **JavaScri
 ---
 
 ## 📁 Project Structure
----
-/root
-├── /frontend
-└── /backend
----
+root/
+├── frontend/
+└── backend/
 
 
 ---
